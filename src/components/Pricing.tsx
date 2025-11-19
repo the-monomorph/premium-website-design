@@ -7,7 +7,7 @@ import { Button } from "./ui/button";
 const plans = [
   {
     name: "Starter",
-    price: "$999",
+    price: "₹25000",
     period: "/month",
     description: "Perfect for small businesses getting started",
     features: [
@@ -22,7 +22,7 @@ const plans = [
   },
   {
     name: "Growth",
-    price: "$2,499",
+    price: "₹50000",
     period: "/month",
     description: "For brands ready to scale their presence",
     features: [
